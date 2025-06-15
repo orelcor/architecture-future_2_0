@@ -1,0 +1,58 @@
+<mxfile host="Electron" modified="2025-06-15T19:22:48.144Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.6.1 Chrome/124.0.6367.207 Electron/30.0.6 Safari/537.36" etag="EVh24gcNYkVWrwvl7wan" version="24.6.1" type="device">
+  <diagram name="Страница — 1" id="JYrofQATHeG_gcUmGr9J">
+    <mxGraphModel dx="1434" dy="907" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="RmP-pGt36x1IwiAL76Te-6" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="260" y="390" width="320" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="RmP-pGt36x1IwiAL76Te-1" value="Срочно" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="310" y="410" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RmP-pGt36x1IwiAL76Te-3" value="Не срочно" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="440" y="410" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RmP-pGt36x1IwiAL76Te-4" value="Важно" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;textDirection=vertical-lr;" vertex="1" parent="1">
+          <mxGeometry x="280" y="440" width="30" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="RmP-pGt36x1IwiAL76Te-16" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;entryX=0.997;entryY=0.541;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="RmP-pGt36x1IwiAL76Te-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="310" y="563" as="sourcePoint" />
+            <mxPoint x="130" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RmP-pGt36x1IwiAL76Te-5" value="Не важно" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;textDirection=vertical-lr;" vertex="1" parent="1">
+          <mxGeometry x="280" y="570" width="30" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="RmP-pGt36x1IwiAL76Te-8" value="Vendor-lock" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="455" y="450" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="RmP-pGt36x1IwiAL76Te-10" value="Монолит DWH" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="490" y="520" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="RmP-pGt36x1IwiAL76Te-15" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;exitX=0.555;exitY=1.006;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.558;entryY=-0.003;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="434.9999999999999" y="711.44" as="sourcePoint" />
+            <mxPoint x="435.9599999999999" y="388.55999999999995" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RmP-pGt36x1IwiAL76Te-11" value="Data Privacy" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="340" y="490" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="RmP-pGt36x1IwiAL76Te-12" value="152-ФЗ" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="400" y="450" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="RmP-pGt36x1IwiAL76Te-9" value="Legacy" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="420" y="510" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="RmP-pGt36x1IwiAL76Te-13" value="Ролевая модель" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="350" y="550" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="RmP-pGt36x1IwiAL76Te-14" value="Стек" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="520" y="605" width="50" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
